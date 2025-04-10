@@ -8,7 +8,7 @@ A fullstack web app to help students track job applications efficiently. Built u
 ## 🔗 Live Demo
 
 🌐 **Frontend (Vercel)**: [https://your-frontend.vercel.app](https://job-tracker-chi-blue.vercel.app/)  
-🖥 **Backend (Render/Railway)**: [https://your-backend.onrender.com](https://job-tracker-pter.onrender.com/api/)
+🖥 **Backend (Render)**: [https://your-backend.onrender.com](https://job-tracker-pter.onrender.com/api/jobs/)
 
 ---
 
@@ -17,7 +17,7 @@ A fullstack web app to help students track job applications efficiently. Built u
 - **Frontend**: React (Hooks), Axios
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB Atlas
-- **Deployment**: Vercel (Frontend), Render/Railway (Backend)
+- **Deployment**: Vercel (Frontend), Render (Backend)
 - **Styling**: Vanilla CSS (fully responsive and animated)
 
 ---
