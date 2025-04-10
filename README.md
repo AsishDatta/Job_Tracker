@@ -7,8 +7,8 @@ A fullstack web app to help students track job applications efficiently. Built u
 
 ## 🔗 Live Demo
 
-🌐 **Frontend (Vercel)**: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)  
-🖥 **Backend (Render/Railway)**: [https://your-backend.onrender.com](https://your-backend.onrender.com)
+🌐 **Frontend (Vercel)**: [https://your-frontend.vercel.app](https://job-tracker-chi-blue.vercel.app/)  
+🖥 **Backend (Render/Railway)**: [https://your-backend.onrender.com](https://job-tracker-pter.onrender.com)
 
 ---
 
